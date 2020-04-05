@@ -7,6 +7,7 @@ public class firstProgram {
 	int c=300;
 	if((a<b)&(b<c)) {
 		System.out.println("C is bigger number");
+		System.out.println("D is bigger number");
 		
 	}else {
 		System.out.println("if the condition got failed please it will come to this place");
