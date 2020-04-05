@@ -5,7 +5,6 @@ public class firstProgram {
 	int a=100;
 	int b=50;
 	int c=300;
-	int d=500;
 	if((a<b)&(b<c)) {
 		System.out.println("C is bigger number");
 		
