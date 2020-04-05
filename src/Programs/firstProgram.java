@@ -9,7 +9,7 @@ public class firstProgram {
 		System.out.println("C is bigger number");
 		
 	}else {
-		System.out.println("if the condition got failed please come here ");
+		System.out.println("if the condition got failed please it will come to this place");
 	}
 	 
 	}
